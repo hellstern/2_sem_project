@@ -118,3 +118,29 @@ I skal have følgende klar til SCRUM **Review** møder:
 - Husk skriv lidt om hvert "Daily meeting"
 @ulend
 @snapend
+
+---
+@title[taiga.io]
+@snap[north-west span-80 text-07]
+## taiga.io
+@snapend
+
+@snap[west span-80 text-08]
+I skal bruge et **program** til jeres **Product backlog**
+@ul[...](false)
+- I skal kunne vise:
+    - User Stories
+    - Priotering
+    - Task
+    - Status
+- Vores anbefaling er:
+    - [www.taiga.io](https://taiga.io/)
+    - Gratis for:
+    - *Unlimited public projects*
+@ulend
+@snapend
+
+@snap[south-east span-55]
+![](assets/img/taiga.jpg)
+@snapend
+
