@@ -2,31 +2,34 @@
 
 ---
 @title[GitHub Placering]
+
+@snap[midtpoint span-100 text-07]
 ## GitHub Placering
 
 Alt omkring semester projektet er samlet et sted:
 
 [https://datsoftlyngby.github.io/dat2sem2020Spring/projekt/](https://datsoftlyngby.github.io/dat2sem2020Spring/projekt/)
+@snapend
 
 ---
 @title[Carporte]
 
-@snap[east span-50 text-07]
+@snap[north-west span-50 text-07]
 ## Carporte
 @snapend
 
-@snap[east span-50 text-07]
+@snap[west span-70 text-08]
 I skal programmere et system der skal erstatte Fog's nuværende system
 
-@ul[... text-07](false)
+@ul[...](false)
 - Det skal være webbaseret
 - Det skal være muligt for kunde at bestille en carport
 - Det skal være en carport som kunde selv "designer" - *altså mål, skur, tag osv.*
 @ulend
 @snapend
 
-@snap[south span-50 text-07]
-Jon og Casper har talt med kunden, hvilket der er kommet en video ud af. Hvilket svarer til at i har holdt et møde med kunden, hvor i har fået opgaven.
+@snap[south-east span-30 text-07]
+Jon og Casper har talt med kunden, det er der kommet en video ud af. Hvilket svarer til at i har holdt et møde med kunden, hvor i har fået opgaven.
 @snapend
 ---
 @title[Kundemøde]
@@ -35,8 +38,11 @@ Jon og Casper har talt med kunden, hvilket der er kommet en video ud af. Hvilket
 
 ---
 @title[Møder]
+@snap[north-west span-50 text-07]
 ## Møder
-@snap[north span-80 text-07]
+@snapend
+
+@snap[midtpoint span-80 text-07]
 | Dato  | Type                           |
 |-------|--------------------------------|
 |16-04  |SCRUM Planning                  |
@@ -50,11 +56,13 @@ Jon og Casper har talt med kunden, hvilket der er kommet en video ud af. Hvilket
 |18-05  |SCRUM Review                    |
 @snapend
 
+@snap[south span-100 text-04]
 Tidsplanerne for de enkelte SCRUM møder ligger i et Google Sheet doc: [https://bit.ly/2_sem_2020_grupper](https://bit.ly/2_sem_2020_grupper)
+@snapend
 
 ---
 @title[SCRUM Møder]
-@snap[north span-50 text-08]
+@snap[north-west span-50 text-07]
 ## SCRUM Møder
 @snapend
 
@@ -77,5 +85,3 @@ I skal have følgende klar til SCRUM **Review** møder:
 @ulend
 @snapend
 
-
----
