@@ -12,12 +12,12 @@ Alt omkring semester projektet er samlet et sted:
 @title[Carporte]
 ## Carporte
 
-I skal programmere et system der skal erstatte Fog's nuværende system.
+I skal programmere et system der skal erstatte Fog's nuværende system
 
-@ul[...](false text-07)
+@ul[... text-07](false)
 - Det skal være webbaseret
 - Det skal være muligt for kunde at bestille en carport
-- Det skal være en carport som kunde selv "designer" - altså mål, skur, tag osv.
+- Det skal være en carport som kunde selv "designer" - *altså mål, skur, tag osv.*
 @ulend
 
 Jon og Casper har talt med kunden, hvilket der er kommet en video ud af. Hvilket svarer til at i har holdt et møde med kunden, hvor i har fået opgaven.
@@ -30,7 +30,7 @@ Jon og Casper har talt med kunden, hvilket der er kommet en video ud af. Hvilket
 ---
 @title[Møder]
 ## Møder
-
+@snap[north span-80 text-07]
 | Dato  | Type                           |
 |-------|--------------------------------|
 |16-04  |SCRUM Planning                  |
@@ -42,16 +42,17 @@ Jon og Casper har talt med kunden, hvilket der er kommet en video ud af. Hvilket
 |07-05  |SCRUM Review & Teknisk Feedback |
 |14-05  |Teknisk Feedback                |
 |18-05  |SCRUM Review                    |
+@snapend
 
 Tidsplanerne for de enkelte SCRUM møder ligger i et Google Sheet doc: [https://bit.ly/2_sem_2020_grupper](https://bit.ly/2_sem_2020_grupper)
 
 ---
 @title[SCRUM Møder]
-@snap[north span-50]
+@snap[north span-50 text-08]
 ## SCRUM Møder
 @snapend
 
-@snap[east span-50]
+@snap[east span-50 text-07]
 I skal have følgende klar til SCRUM **Planning** møder:
 
 @ul[...](false)
@@ -61,7 +62,7 @@ I skal have følgende klar til SCRUM **Planning** møder:
 @ulend
 @snapend
 
-@snap[west span-50]
+@snap[west span-50 text-07]
 I skal have følgende klar til SCRUM **Review** møder:
 
 @ul[...](false)
