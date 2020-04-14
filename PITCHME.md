@@ -10,8 +10,12 @@ Alt omkring semester projektet er samlet et sted:
 
 ---
 @title[Carporte]
-## Carporte
 
+@snap[east span-50 text-07]
+## Carporte
+@snapend
+
+@snap[east span-50 text-07]
 I skal programmere et system der skal erstatte Fog's nuværende system
 
 @ul[... text-07](false)
@@ -19,9 +23,11 @@ I skal programmere et system der skal erstatte Fog's nuværende system
 - Det skal være muligt for kunde at bestille en carport
 - Det skal være en carport som kunde selv "designer" - *altså mål, skur, tag osv.*
 @ulend
+@snapend
 
+@snap[south span-50 text-07]
 Jon og Casper har talt med kunden, hvilket der er kommet en video ud af. Hvilket svarer til at i har holdt et møde med kunden, hvor i har fået opgaven.
-
+@snapend
 ---
 @title[Kundemøde]
 ## Video fra kundemødet
