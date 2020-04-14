@@ -1,7 +1,4 @@
-# GitPitch In-60-Seconds - A Very Short Tutorial.
-#
-
-#
+# Tue Hellstern - 2. sem project
 # Theme Template
 # Doc: https://gitpitch.com/docs/themes/default
 #
@@ -60,7 +57,7 @@ published : true
 #
 title : "2. Semester 2020 - Projekt"
 description : "Opstart 2. semester projekt 2020."
-thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
+thumbnail : assets/img/logo.png
 
 # PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-START
 theme            : template
