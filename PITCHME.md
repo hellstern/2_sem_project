@@ -9,12 +9,12 @@ Alt omkring semester projektet er samlet et sted:
 [https://datsoftlyngby.github.io/dat2sem2020Spring/projekt/](https://datsoftlyngby.github.io/dat2sem2020Spring/projekt/)
 
 ---
-@titel[Carporte]
+@title[Carporte]
 ## Carporte
 
 I skal programmere et system der skal erstatte Fog's nuværende system.
 
-@ul[...](false)
+@ul[...](false text-07)
 - Det skal være webbaseret
 - Det skal være muligt for kunde at bestille en carport
 - Det skal være en carport som kunde selv "designer" - altså mål, skur, tag osv.
@@ -23,7 +23,7 @@ I skal programmere et system der skal erstatte Fog's nuværende system.
 Jon og Casper har talt med kunden, hvilket der er kommet en video ud af. Hvilket svarer til at i har holdt et møde med kunden, hvor i har fået opgaven.
 
 ---
-@titel[Kundemøde]
+@title[Kundemøde]
 ## Video fra kundemødet
 ![Video](https://www.youtube.com/embed/OMatlvol_ns)
 
