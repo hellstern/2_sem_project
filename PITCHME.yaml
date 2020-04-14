@@ -46,7 +46,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "Tue Hellstern - 2. Semester Projekt 2020"
 
 #
 # Published Setting
@@ -58,7 +58,22 @@ published : true
 # Twitter Card Settings [Pro Only]
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "GitPitch In 60 Seconds"
-description : "A short tutorial introducing GitPitch Markdown Presentations for Developers."
+title : "2. Semester 2020 - Projekt"
+description : "Opstart 2. semester projekt 2020."
 thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
 
+# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-START
+theme            : template
+theme-background : [ "#1B1B1B" ]
+theme-headline   : [ "Montserrat", "#EC4D37", "none", "#FFFFFF", "100", "120", "15" ]
+theme-byline     : [ "Raleway", "#FFFFFF", "none", "#EC4D37", "100", "110", "15" ]
+theme-text       : [ "Ubuntu", "#FFFFFF", "none", "#EC7F37", "100", "100", "15" ]
+theme-links      : [ "#F1C40F", "#5254F7" ]
+theme-code       : [ "Source Code Pro", "100", "120" ]
+highlight        : tomorrow
+theme-controls   : [ "#C0C0C0" ]
+theme-margins    : [ "0", "15px" ]
+logo             : assets/img/logo.png
+logo-position    : top-left
+layout           : center
+# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-END
